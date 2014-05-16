@@ -1,0 +1,25 @@
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/ant-build/MC40App.ap_ \
+ : /Users/developer/Documents/tlantic/Mc40App/platforms/android/res/drawable/icon.png \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/res/drawable-hdpi/icon.png \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/res/drawable-ldpi/icon.png \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/res/drawable-mdpi/icon.png \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/res/drawable-xhdpi/icon.png \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/res/values/strings.xml \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/res/xml/config.xml \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/ant-build/res/drawable/icon.png \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/assets/_where-is-www.txt \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/assets/www \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/assets/www/cordova.js \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/assets/www/cordova_plugins.js \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/assets/www/css \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/assets/www/img \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/assets/www/index.html \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/assets/www/js \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/assets/www/css/index.css \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/assets/www/img/logo.png \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/assets/www/js/index.js \
+/Users/developer/Documents/tlantic/Mc40App/platforms/android/ant-build/AndroidManifest.xml \
